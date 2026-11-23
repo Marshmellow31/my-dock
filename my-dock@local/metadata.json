@@ -1,0 +1,21 @@
+{
+  "description": "Personal fork of Dash2Dock Animated by icedman (GPL-3.0).",
+  "gettext-domain": "my-dock",
+  "name": "My Dock",
+  "original-authors": [
+    "icedman"
+  ],
+  "schema-id": "org.gnome.shell.extensions.my-dock",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51"
+  ],
+  "url": "https://github.com/Marshmellow31/my-dock",
+  "uuid": "my-dock@local",
+  "version": 1
+}
